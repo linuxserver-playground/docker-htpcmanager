@@ -161,7 +161,7 @@ pygments                 2.21.0                 python
 pynacl                   1.6.2                  python                           
 pypi-xmlrpc              2020.12.3              python                           
 pyproject-hooks          1.2.0                  python                           
-python-dateutil          3.0.0                  python                           
+python-dateutil          4.0.0                  python                           
 python3                  3.12.13-r0             apk                              
 python3-pyc              3.12.13-r0             apk                              
 python3-pycache-pyc0     3.12.13-r0             apk                              
