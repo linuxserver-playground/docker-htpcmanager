@@ -37,7 +37,7 @@ cffi                     2.1.1                  python
 charset-normalizer       3.5.2                  python                           
 cheroot                  11.1.2                 python                           
 cherrypy                 18.10.0                python                           
-click                    8.5.0                  python                           
+click                    8.5.1                  python                           
 colorama                 0.4.6                  python                           
 coreutils                9.5-r2                 apk                              
 coreutils-env            9.5-r2                 apk                              
