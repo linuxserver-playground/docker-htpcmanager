@@ -33,9 +33,10 @@ c-ares                   1.33.1-r0              apk
 ca-certificates          20260413-r0            apk                              
 ca-certificates-bundle   20260413-r0            apk                              
 catatonit                0.2.0-r0               apk                              
-certifi                  2026.10.23             python          (+1 duplicate)   
+certifi                  2026.10.23             python                           
+certifi                  2026.11.20             python                           
 cffi                     2.1.1                  python                           
-charset-normalizer       3.5.2                  python                           
+charset-normalizer       3.5.3                  python                           
 cheroot                  11.1.2                 python                           
 cherrypy                 18.10.0                python                           
 click                    8.5.1                  python                           
